@@ -58,11 +58,3 @@
 // } else {
 //     alert('toq son')
 // }
-
-
-
-// 6#
-
-/* hello */
-// pokmoi xgdf
-// dfdr 
